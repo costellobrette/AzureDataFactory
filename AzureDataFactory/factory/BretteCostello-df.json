@@ -1,0 +1,9 @@
+{
+	"name": "BretteCostello-df",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e464ddd-69f3-4efb-b40f-344084e3c3e5",
+		"tenantId": "694a2694-d745-49b6-b40b-62036a54f312"
+	}
+}
